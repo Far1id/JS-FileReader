@@ -1,0 +1,27 @@
+img{
+    width: 400px;
+    height: 400px;
+}
+
+.fileImgDIv{
+    width: 200px;
+    height: 150px;
+    display: inline-block;
+    margin-right: 50px;
+    background-color: aqua;
+    position: relative;
+}
+
+.fileImg{
+    width: 200px;
+    height: 150px;
+}
+
+.fileSpan{
+    color: red;
+    position: absolute;
+    font-size: 30px;
+    font-weight: bold;
+    right: 10px;
+    cursor: pointer;
+}
